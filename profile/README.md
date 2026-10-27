@@ -15,7 +15,7 @@ Websites, online shops and custom software for businesses across Romania and the
 
 ### What we build
 
-| | | |
+| Plan | Price | What is included |
 |---|---|---|
 | **[Presentation websites](https://rigtech.eu/presentation-website)** | from **€490** | 5 pages included, more on request. Custom design, the copy written for you, contact form, standard SEO, 30 days of support. |
 | **[Online shops](https://rigtech.eu/online-shop-development)** | from **€1,490** | 100 products included, more on request. Catalogue and search, cart and online payments, admin for orders and stock, 45 days of support. |
